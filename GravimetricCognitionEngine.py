@@ -1,3 +1,4 @@
+# MIT License
 # The Gravimetric Cognition Engine (v1.0 - Genesis)
 # Copyright (c) 2026 Phillip Fox (PJFoxy)
 #
